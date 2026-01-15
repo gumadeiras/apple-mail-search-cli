@@ -7,7 +7,11 @@ Fast SQLite-based search for Apple Mail.app with full body content support.
 
 ## 🔗 ClawdHub
 
-Install via ClawdHub: [apple-mail-search-safe](https://clawdhub.com/gumadeiras/apple-mail-search-safe)
+Available as a skill on [ClawdHub](https://clawdhub.com) for Clawdbot users. Install with:
+
+```bash
+clawdhub install apple-mail-search-safe
+```
 
 ## ✨ Features
 
