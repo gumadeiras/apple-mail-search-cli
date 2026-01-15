@@ -5,6 +5,10 @@ Fast SQLite-based search for Apple Mail.app with full body content support.
 ![macOS](https://img.shields.io/badge/macOS-10.15+-black?style=flat-square&logo=apple)
 ![Shell](https://img.shields.io/badge/Shell-Bash-black?style=flat-square&logo=gnu-bash)
 
+## 🔗 ClawdHub
+
+Install via ClawdHub: [apple-mail-search-safe](https://clawdhub.com/gumadeiras/apple-mail-search-safe)
+
 ## ✨ Features
 
 - **⚡ Fast:** ~50ms queries via SQLite (vs 8+ minutes with pure AppleScript)
